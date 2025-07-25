@@ -65,8 +65,7 @@ Currently focused on AI agents, GitOps, MLOps, and data-centric cloud architectu
 
 ### **Languages:**  
 - **Primary:** Python, Go  
-- TypeScript, Bash, PowerShell, C/C++, C#  
-- CUDA (non-commercial)
+- **Secondary:** JS, C/C++, Bash, PowerShell
 
 ### **Databases & Messaging:**  
 - PostgreSQL, MySQL, SQL  
@@ -75,13 +74,14 @@ Currently focused on AI agents, GitOps, MLOps, and data-centric cloud architectu
 - Amazon Redshift
 
 ### **Frameworks:**  
-- Django, Flask, FastAPI
-- NestJS
-- CrewAI (non-commercial)
+- **Python:** FastAPI, Flask, SQLAlchemy, SQLModel, Django, Pydantic, Alembic
+- **JS:** NestJS, React
+- **Other:** CrewAI (non-comercial), CUDA (non-commercial)
+
 
 ### **Cloud & IaC:**  
 - AWS (EKS, EC2, ECS, Lambda, S3, RDS, Glue, DMS, API Gateway, CloudWatch)  
-- Azure (VMs, Key Vault)  
+- Azure (VMs, Key Vault, Blob Storage, Virtual Network)  
 - Docker, Kubernetes, Helm, Helmfile  
 - Terraform, Ansible
 
