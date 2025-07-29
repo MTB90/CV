@@ -111,7 +111,7 @@ Currently focused on AI agents, GitOps, MLOps, and data-centric cloud architectu
 
 ## 🌍 Languages
 
-- **English:** B2 – Intermediate (spoken and written)
+- **English:** B2/C1 - Extensive experience working with clients from the US and UK in multiple projects.
 
 ---
 
